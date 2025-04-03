@@ -1,5 +1,5 @@
 <h1 align="center">Hemlo 👋, I'm Mohaimin</h1>
-<h3 align="center">A senior year undergraduate student from Bangladesh majoring in Computer Science & Engineering </h3>
+<h3 align="center">A Computer Science & Engineering graduate from Bangladesh  </h3>
 
 - 🔭 I’m currently working on [AuthentiDocs](https://github.com/AuthentiDocs/authentidocs)
 
